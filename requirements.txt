@@ -1,4 +1,7 @@
 requests
 langchain
+langchain-community
+langchain-core
+python-dotenv
 faiss-cpu
-tiktoken
+openai

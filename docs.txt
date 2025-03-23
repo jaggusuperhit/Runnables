@@ -1,0 +1,3 @@
+This is a sample document for testing the PDF reader script.
+It contains multiple lines of text to ensure proper loading and processing.
+The goal is to verify that the script can read and split this text into chunks.
